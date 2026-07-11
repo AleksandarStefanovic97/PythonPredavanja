@@ -2,7 +2,6 @@ import students_lib
 import grades
 
 
-
 for student in students_lib.students:
     if student['active']:
         print(student['name'])
