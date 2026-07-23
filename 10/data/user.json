@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Aleksandar Stefanovic",
+        "age": 28,
+        "height": 184,
+        "gender": "male"
+    },
+    {
+        "name": "Pera Peric",
+        "age": 31,
+        "height": 187,
+        "gender": "male"
+    },
+    {
+        "name": "Natasa Pavlovic",
+        "age": 25,
+        "height": 164,
+        "gender": "female"
+    },
+    {
+        "name": "Pero Mikic",
+        "age": 55,
+        "height": 190,
+        "gender": "male"
+    },
+    {
+        "name": "Pero Mikic",
+        "age": 55,
+        "height": 190,
+        "gender": "male"
+    },
+    {
+        "name": "Pero Mikic",
+        "age": 55,
+        "height": 190,
+        "gender": "male"
+    },
+    {
+        "name": "Pero Mikic",
+        "age": 55,
+        "height": 190,
+        "gender": "male"
+    },
+    {
+        "name": "Pero Mikic",
+        "age": 55,
+        "height": 190,
+        "gender": "male"
+    }
+]
