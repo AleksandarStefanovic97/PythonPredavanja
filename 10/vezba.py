@@ -10,3 +10,4 @@ data.append({
 })
 
 save_file("data/user.json", data)
+
