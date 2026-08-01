@@ -1,11 +1,12 @@
-import json
-
-
-def load_file(file_name):
-    with open(file_name, 'r') as file:
-        products = json.load(file)
-        return products
+from methods import load_file, save_file
 
 
 data = load_file("data/products.json")
+
 print(data)
+
+data.append({
+    "name": "Test test"
+})
+
+save_file("data/user.json", data)

@@ -1,50 +1,60 @@
 [
     {
-        "name": "Aleksandar Stefanovic",
-        "age": 28,
-        "height": 184,
-        "gender": "male"
+        "name": "iPhone 14",
+        "price": 1200,
+        "amount": 15
     },
     {
-        "name": "Pera Peric",
-        "age": 31,
-        "height": 187,
-        "gender": "male"
+        "name": "iPhone 17 Pro Max",
+        "price": 1199,
+        "amount": 0
     },
     {
-        "name": "Natasa Pavlovic",
-        "age": 25,
-        "height": 164,
-        "gender": "female"
+        "name": "iPhone 17",
+        "price": 799,
+        "amount": 22
     },
     {
-        "name": "Pero Mikic",
-        "age": 55,
-        "height": 190,
-        "gender": "male"
+        "name": "Samsung Galaxy S26 Ultra",
+        "price": 1299,
+        "amount": 10
     },
     {
-        "name": "Pero Mikic",
-        "age": 55,
-        "height": 190,
-        "gender": "male"
+        "name": "Samsung Galaxy S26",
+        "price": 799,
+        "amount": 18
     },
     {
-        "name": "Pero Mikic",
-        "age": 55,
-        "height": 190,
-        "gender": "male"
+        "name": "Google Pixel 10 Pro XL",
+        "price": 1099,
+        "amount": 7
     },
     {
-        "name": "Pero Mikic",
-        "age": 55,
-        "height": 190,
-        "gender": "male"
+        "name": "Google Pixel 10",
+        "price": 799,
+        "amount": 0
     },
     {
-        "name": "Pero Mikic",
-        "age": 55,
-        "height": 190,
-        "gender": "male"
+        "name": "OnePlus 13",
+        "price": 799,
+        "amount": 20
+    },
+    {
+        "name": "Xiaomi 15 Pro",
+        "price": 899,
+        "amount": 12
+    },
+    {
+        "name": "Motorola Razr 2026",
+        "price": 699,
+        "amount": 9
+    },
+    {
+        "name": "iPhone 17e",
+        "price": 599,
+        "amount": 25
+    },
+    {
+        "name": "Test test"
     }
 ]
